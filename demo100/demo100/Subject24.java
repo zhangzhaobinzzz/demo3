@@ -5,7 +5,7 @@ import sun.security.ssl.HandshakeOutStream;
 public class Subject24 {
     String brand;
     String type;
-    //
+    //1111111111111111111
     public void sendInfo(){
         System.out.println("可以发短信");
     }
